@@ -1,0 +1,10 @@
+Configs: {
+	FasterOldOnesArmyConfig: {
+		DisplayName: Config
+
+		SpawnRate: {
+			Label: Spawn rate
+			Tooltip: Default spawn rate is 1
+		}
+	}
+}

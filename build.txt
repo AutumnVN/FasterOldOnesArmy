@@ -1,0 +1,4 @@
+displayName = AutumnVN's Faster Old One's Army
+author = AutumnVN
+version = 1.0
+homepage = https://github.com/AutumnVN/FasterOldOnesArmy
