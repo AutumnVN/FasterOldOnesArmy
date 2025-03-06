@@ -25,8 +25,8 @@ namespace FasterOldOnesArmy
     {
         public override ConfigScope Mode => ConfigScope.ServerSide;
 
-        [DefaultValue(4)]
-        [Range(1, 4)]
+        [DefaultValue(6)]
+        [Range(1, 6)]
         [Slider]
         public int SpawnRate { get; set; }
     }
